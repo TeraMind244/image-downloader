@@ -1,6 +1,6 @@
 ## Usage
 
-1. Create a `data.json` file under `./src/data/`.
+1. Create a `data.json` file under `./src/data/`
 2. Your data structure should look like this:
 ```
 {
