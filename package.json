@@ -1,0 +1,23 @@
+{
+  "name": "image-downloader",
+  "version": "1.0.0",
+  "description": "Image downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeraMind244/image-downloader.git"
+  },
+  "author": "Tera Mind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeraMind244/image-downloader/issues"
+  },
+  "homepage": "https://github.com/TeraMind244/image-downloader#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
